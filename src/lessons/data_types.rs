@@ -1,6 +1,6 @@
 use std::ffi::c_int;
 
-pub fn run() {
+pub fn run_data_types() {
     let some_letter: char = '😁';
 
     let n: u32 = 10000;
